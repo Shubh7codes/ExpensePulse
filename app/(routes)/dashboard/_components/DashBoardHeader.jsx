@@ -5,7 +5,7 @@ function DashBoardHeader() {
   return (
     <div className='p-5 shadow-sm border-b flex justify-between'>
         <div>
-            Search Bar
+            <h2 className='font-bold text-lg'>Expense Pulse</h2>
         </div>
         <div>
             <UserButton/>
